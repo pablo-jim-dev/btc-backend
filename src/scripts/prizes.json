@@ -1,0 +1,332 @@
+[
+  {
+    "rank": 1,
+    "cadena": "AIMBRIDGE",
+    "clasificacion": "Intermedia",
+    "hotel": "ALBOR TAPESTRY SAN MIGUEL DE ALLENDE",
+    "estatus": "GENERADO",
+    "descripcion": "A NOCHES 2 PERSONAS CON DESAYUNO AMERICANO",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 2,
+    "cadena": "BARCELÓ",
+    "clasificacion": "Intermedia",
+    "hotel": "BARCELÓ RIVIERA MAYA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES TODO INCLUIDO JR SUITE",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 3,
+    "cadena": "BRISAS",
+    "clasificacion": "Intermedia",
+    "hotel": "LAS BRISAS ACAPULCO",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES CON DESAYUNO",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 4,
+    "cadena": "BRISAS",
+    "clasificacion": "Intermedia",
+    "hotel": "GALERIA PLAZA VERACRUZ",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB LUJO INCLUYE DESAYUNO",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 5,
+    "cadena": "CAMINO REAL",
+    "clasificacion": "Intermedia",
+    "hotel": "CAMINO REAL ZAASHILA HUATULCO",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES 2 PAX SIN ALIMENTOS HAB LUJO ",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 6,
+    "cadena": "CAMINO REAL",
+    "clasificacion": "Intermedia",
+    "hotel": "CAMINO REAL ACAPULCO",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES 2 PAX SIN ALIMENTOS HAB LUJO ",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 7,
+    "cadena": "GRUPO DIESTRA",
+    "clasificacion": "Premium",
+    "hotel": "JW Los Cabos",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES  plan europeo",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 8,
+    "cadena": "GRUPO DIESTRA",
+    "clasificacion": "Intermedia",
+    "hotel": "Samba Nuevo Vallarta ",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES  plan europeo",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 9,
+    "cadena": "GRUPO HOTELERO SANTA FE",
+    "clasificacion": "Intermedia",
+    "hotel": "KRYSTAL GRAND NUEVO VALLARTA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES ESTÁNDAR SENCILLA TODO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 10,
+    "cadena": "GRUPO HOTELERO SANTA FE",
+    "clasificacion": "Intermedia",
+    "hotel": "KRYSTAL GRAND RESIDENCE & VILLAS SMA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES PLAN EUROPEO",
+    "noches": 0,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 11,
+    "cadena": "HILTON",
+    "clasificacion": "Intermedia",
+    "hotel": "DOUBLE TREE MAZATLÁN",
+    "estatus": "GENERADO",
+    "descripcion": "Dos noches de estancia en habitación Deluxe Ocean Front para 2 adultos con desayuno incluido.",
+    "noches": 2,
+    "vigencia": "2026-11-12"
+  },
+  {
+    "rank": 12,
+    "cadena": "HILTON",
+    "clasificacion": "Intermedia",
+    "hotel": "HAMPTON MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": " 2 NOCHES 2 PERSONAS",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 13,
+    "cadena": "HILTON",
+    "clasificacion": "Premium",
+    "hotel": "Conrad Tulum Riviera Maya",
+    "estatus": "GENERADO",
+    "descripcion": "DOS NOCHES DOS PERSONAS DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 14,
+    "cadena": "HILTON",
+    "clasificacion": "Premium",
+    "hotel": "Waldorf Astoria Riviera Maya.",
+    "estatus": "GENERADO",
+    "descripcion": "DOS NOCHES DOS PERSONAS DESAYUNO INCLUIDO HAB OCEAN FRONT",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 15,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "Dreams Puerto Morelos",
+    "estatus": "EMISIÓN PENDIENTE",
+    "descripcion": "ALL INCLUSIVE 2 PAX",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 16,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "HYATT REGENCY MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB ESTÁNDAR DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 17,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "HYATT REGENCY MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB ESTÁNDAR DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 18,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "HYATT REGENCY MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB ESTÁNDAR DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 19,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "HYATT REGENCY MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB ESTÁNDAR DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 20,
+    "cadena": "HYATT",
+    "clasificacion": "Intermedia",
+    "hotel": "HYATT REGENCY MÉRIDA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES HAB ESTÁNDAR DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 21,
+    "cadena": "MARRIOT",
+    "clasificacion": "Intermedia",
+    "hotel": "Courtyard Mérida Downtown ",
+    "estatus": "EMISIÓN PENDIENTE",
+    "descripcion": "2 NOCHES DESAYUNO INCLUIDO",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 22,
+    "cadena": "MARRIOT",
+    "clasificacion": "Intermedia",
+    "hotel": "Courtyard La Paz",
+    "estatus": "EMISIÓN PENDIENTE",
+    "descripcion": "2 NOCHES",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 23,
+    "cadena": "MELIA",
+    "clasificacion": "Intermedia",
+    "hotel": "Paradisus Los Cabos",
+    "estatus": "GENERADO",
+    "descripcion": " 2 NOCHES JR  SUITES GARDEN VIEW",
+    "noches": 2,
+    "vigencia": "2026-11-01"
+  },
+  {
+    "rank": 24,
+    "cadena": "MINOR",
+    "clasificacion": "Intermedia",
+    "hotel": "NH Colletion Merida paseo montejo",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES ",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 25,
+    "cadena": "POSADAS",
+    "clasificacion": "Premium",
+    "hotel": "LIVE AQUA CANCUN",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES STÁNDAR MÁX 2 PAX ADULTAS",
+    "noches": 2,
+    "vigencia": "Enero 01 a Diciembre 17, 2026"
+  },
+  {
+    "rank": 26,
+    "cadena": "POSADAS",
+    "clasificacion": "Premium",
+    "hotel": "GRAND FIESTA AMERICANA LOS CABOS ALL INCLUSIVE GOLF AND SPA",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES ALL INCLUSIVE 2 PAX ADULTAS MÁX. SIN TRANSPORTACÓN",
+    "noches": 2,
+    "vigencia": "Enero 01 a Diciembre 17, 2026"
+  },
+  {
+    "rank": 27,
+    "cadena": "POSADAS",
+    "clasificacion": "Premium",
+    "hotel": "GRAND FIESTA\nAMERICANA CORAL BEACH CANCÚN",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES STÁNDAR MÁX 2 PAX ADULTAS",
+    "noches": 2,
+    "vigencia": "Enero 01 a Diciembre 17, 2026"
+  },
+  {
+    "rank": 28,
+    "cadena": "POSADAS",
+    "clasificacion": "Premium",
+    "hotel": "DEVOSSION BY LIVE\nAQUA PLAYA DEL CARMEN",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES STÁNDAR MÁX 2 PAX ADULTAS",
+    "noches": 2,
+    "vigencia": "Enero 01 a Diciembre 17, 2026"
+  },
+  {
+    "rank": 29,
+    "cadena": "PRESIDENTE",
+    "clasificacion": "Premium",
+    "hotel": "PRESIDENTE CANCÚN",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES",
+    "noches": 2,
+    "vigencia": "2026-06-01"
+  },
+  {
+    "rank": 30,
+    "cadena": "RCD",
+    "clasificacion": "Premium",
+    "hotel": "Hard Rock a elegir entre Vallarta, Los Cabos o Riviera Maya",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES DOS PERSONAS ALL INCLUSIVE",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  },
+  {
+    "rank": 31,
+    "cadena": "VELAS",
+    "clasificacion": "Premium",
+    "hotel": "GRAND VELAS LOS CABOS",
+    "estatus": "EMISIÓN PENDIENTE",
+    "descripcion": "2 NOCHES ",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 32,
+    "cadena": "VELAS",
+    "clasificacion": "Premium",
+    "hotel": "GRAND GRAND VELAS RIVIERA MAYA",
+    "estatus": "EMISIÓN PENDIENTE",
+    "descripcion": "2 NOCHES ",
+    "noches": 2,
+    "vigencia": null
+  },
+  {
+    "rank": 33,
+    "cadena": "XCARET",
+    "clasificacion": "Premium",
+    "hotel": "Xcaret Arte",
+    "estatus": "GENERADO",
+    "descripcion": "2 NOCHES EN CATEGORÍA SUITE RIVER",
+    "noches": 2,
+    "vigencia": "2026-12-01"
+  }
+]

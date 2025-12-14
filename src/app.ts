@@ -15,6 +15,7 @@ app.use(cors({
         'https://btc-v9k8.onrender.com',
         'http://localhost:5173',
         'https://localhost:5173',
+        'https://169.254.228.236:5173'
     ]
 }));
 app.use(cookieParser());
