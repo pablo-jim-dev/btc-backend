@@ -2,6 +2,7 @@ import type { Request, Response } from "express";
 import User from "@/schemas/user.schema.js";
 import Prize from "@/schemas/prize.schema.js";
 import WinnersSnapshot from "@/schemas/winnersSnapshot.schema.js";
+import { WINNERS } from "@/constants/index.js";
 
 export const getScores = async (req: Request, res: Response) => {
   const { mode } = req.params;
@@ -12,8 +13,8 @@ export const getScores = async (req: Request, res: Response) => {
 
     // 1) Conteo rápido
     const usersCount = await User.countDocuments(q);
-    if (usersCount < 33) {
-      return res.sendStatus(204); // 👈 sin body
+    if (usersCount < WINNERS) {
+      return res.status(409).json({ message: `Aún no tenemos a los ${WINNERS} ganadores ¡Sigan rompiendo la piñata!` });
     }
 
     // 2) Si ya existe un snapshot, regresa el PRIMERO (el de la primera corrida)
@@ -30,16 +31,16 @@ export const getScores = async (req: Request, res: Response) => {
     // 3) No existe snapshot => crear el primero
     const topUsers = await User.find(q)
       .sort({ score: -1, updatedAt: 1, _id: 1 })
-      .limit(33);
+      .limit(WINNERS);
 
     const prizes = await Prize.find({ isActive: true })
       .sort({ rank: 1 })
-      .limit(33);
+      .limit(WINNERS);
 
-    // (Opcional pero recomendable) validar que existan 33 premios
-    if (prizes.length < 33) {
+    // (Opcional pero recomendable) validar que existan WINNERS premios
+    if (prizes.length < WINNERS) {
       return res.status(500).json({
-        message: `No hay suficientes premios activos. Se requieren 33 y hay ${prizes.length}.`,
+        message: `No hay suficientes premios activos. Se requieren ${WINNERS} y hay ${prizes.length}.`,
       });
     }
 
