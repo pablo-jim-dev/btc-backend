@@ -1,1 +1,1 @@
-export const WINNERS = 3;
+export const WINNERS = 33;
